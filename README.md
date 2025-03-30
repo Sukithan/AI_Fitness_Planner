@@ -1,8 +1,10 @@
-# 🏋️‍♂️ **My Fitness App** 🍎
+# 🏋️‍♂️ **Ai Fitness Planner** 🍎
 
 Welcome to **My Fitness App**! 🎉 This is a **full-stack AI-powered diet and workout planner** designed to provide **personalized meal plans and fitness routines** based on user health data, fitness goals, and dietary preferences. 🚀
 
 ---
+
+![AI Fitness Planner Demo](Ai_Fitness_Planner_gif.gif)
 
 ## 🔧 **Technologies Used**
 
